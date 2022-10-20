@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
         email: '',        
         asunto: '',
         mensaje: ''
+        
     };
     
 
